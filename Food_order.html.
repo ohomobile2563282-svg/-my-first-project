@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Foor oder </title>
+</head>
+<body>
+   <h2>My Food order page </h2>
+   <p>Topic</p>
+   <p style=" color:red">The style is attribute of paragraph tag<tag</p>
+
+<table>
+  <tr>
+  <th>Menu</th>
+  <th>Menu</th>
+
+</tr>
+<tr>
+ <td> Crab frien rice <br>
+ <img src=" menu1.jpg"alt="flowers" width="50" height="50" >
+ <input type="number" id="qty" min ="1" value="1" placeholder=" Quantity">
+ </td>
+ <td>Small rice noodles</td>
+
+  </tr>
+  </table>
+  <body>
+ </html>
